@@ -118,7 +118,7 @@
                 <div class="col-lg-3 col-md-12 mb-30">
                     <a href="<?php echo base_url('drone_technology') ?>">
                         <figure class="gallery-image">
-                            <img src="<?php echo base_url() ?>assets/img/gallery/protfolio-img05.png" alt="Drone Technology" class="img">
+                            <img src="<?php echo base_url() ?>assets/img/gallery/drone_h1.jpg" alt="Drone Technology" class="img">
                             <figcaption>
                                 <div class="icon"><img src="<?php echo base_url() ?>assets/img/gallery/g-btn.png" alt="Drone Technology" class="img"> </div>
                                 <div class="text">

@@ -223,7 +223,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 pl-0 pr-0">
                     <div class="s-single-services">
-                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-6.png" alt="Pre and Final Food Processing"></div>
+                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-7.png" alt="Pre and Final Food Processing"></div>
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
@@ -237,7 +237,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">06</div>
+                            <div class="services-number services-number-hover">07</div>
                             <div class="second-services-content">
                                 <p>Services</p>
                                 <h5><a href="<?php echo base_url('pre_and_final_food_processing') ?>">Pre and Final Food Processing</a></h5>

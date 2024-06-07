@@ -127,29 +127,31 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-5 col-md-6">
                     <div class="contact-box mb-30">
                         <div class="icon">
                             <img src="<?php echo base_url() ?>assets/img/icon/bell.png" alt="image">
                         </div>
                         <div class="content">
                             <h5>Office Address</h5>
-                            <p>Drive, Kensington,<br> London, UK</p>
+                            <p>Building No./Flat No.: 16-3/12344th line<br />
+                                Road/Street: Haranadhapuram<br />
+                                Locality/Sub Locality: Mulapeta<br> City/Town/Village: Nellore, Andhra Pradesh - 524003</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="contact-box mb-30">
                         <div class="icon">
                             <img src="<?php echo base_url() ?>assets/img/icon/mail.png" alt="image">
                         </div>
                         <div class="content">
                             <h5>Email Address</h5>
-                            <p><a href="mailto:>dawork@mail.com">dawork@mail.com</a><br><a href="mailto:info.dawork@mail.com">info.dawork@mail.com</a></p>
+                            <p><a href="mailto:info@shankuchakraagronex.com">info@shankuchakraagronex.com</a></p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <!-- <div class="col-lg-3 col-md-6">
                     <div class="contact-box mb-30">
                         <div class="icon">
                             <img src="<?php echo base_url() ?>assets/img/icon/clock.png" alt="image">
@@ -159,7 +161,7 @@
                             <p>Thursday - Friday :<br>9.00 to 5.00 PM</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="col-lg-3 col-md-6">
                     <div class="contact-box mb-30">
@@ -168,7 +170,7 @@
                         </div>
                         <div class="content">
                             <h5>Make a call</h5>
-                            <p>+123-456-7890<br>+123-456-7890</p>
+                            <p>+91 9493111157</p>
                         </div>
                     </div>
                 </div>

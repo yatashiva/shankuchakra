@@ -23,13 +23,13 @@
                 <div class="col-xl-12 col-lg-12">
                     <div class="breadcrumb-wrap text-left">
                         <div class="breadcrumb-title">
-                            <h2>Crop Production</h2>
+                            <h2>Pre & Final Food Processing</h2>
                             <div class="breadcrumb-wrap">
 
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="<?php echo base_url() ?>">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Crop Production using Computer Vision and IoT</li>
+                                        <li class="breadcrumb-item active" aria-current="page">Pre and Final Food Processing</li>
                                     </ol>
                                 </nav>
                             </div>
@@ -64,8 +64,8 @@
                                 </div>
                             </div>
 
-                            <h2> We give the best Services </h2>
-                            <p>Pleasure and praising pain was born and I will give you a complete account of the systems, and expound the actually teachings of the great explorer of the truth, the master-builder of human uts happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally Nor who loves or pursues or desires to obtain pain of itself.</p>
+                            <h2> Automated Processing Lines </h2>
+                            <p>Implement robotic systems and conveyor belts for automated processing of harvested crops, including cleaning, sorting, and cutting.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
@@ -80,22 +80,12 @@
                                 </div>
                             </div>
 
-                            <h3>Why Choose This Service</h3>
+                            <h3>Quality Assurance</h3>
 
-                            <p>Complete account of the systems and expound the actually teachings of the great explorer of the truth, the master-builder of human uts happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely.</p>
+                            <p>Utilise Computer Vision systems for real-time quality inspection during processing, ensuring consistency and compliance with food safety standards.</p>
 
-                            <p>Complete account of the systems and expound the actually teachings of the great explorer of the truth, the master-builder of human uts happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally.</p>
-
-                            <h3>We guarantee to deliver</h3>
-                            <p>Quam parturient mi amet curae augue varius laoreet vehicula non sem aliquet lectus justo litora fames estab phasellus risus ad sollicitudin magna Viverra diam pretium cursus curabitur parturient convallis hymenaeos suspendisse nibh facilisi purus penatibus habitasse mus orcine muscle adipiscing sapien aliquam nulla. Erat parturient auctor facilisis. Nisi cum fringilla hymenaeos ridiculus habitasses augue nullam fringilla. Taciti convallis. Vitae sapien nisi enim vis metus cras fusce lectus sed luctus quis Clas nisl blandit parturient molestie praesent nec</p>
-                            <ul class="list-style-one">
-                                <li>Engine oil level should be regularly checked Tyres have a minimum of 1.6mm of tread.</li>
-                                <li>Happiness that the electrolyte level is correct Never remove the radiator when the engine.</li>
-                                <li>Painful that your vehicle's brake fluid is full Engine oil level should be regularly checked.</li>
-                                <li>Sngine oil level should be regularly checked Tyres have a minimum of 1.6mm of tread. E lectrolyte.</li>
-
-                            </ul>
-                            <p>Phasellus hac phasellus consequat malesuada veler aliquam dictumst amet a phasellus lacinia integer curabitur duis. Urna taciti nisl torquent varius libero dui. Tempus magnis libero pulvinar purus pharetra justo sem curae duis eget tempus erat ornare. Consequat litora a blandit fermentum. Quam taciti site nascetur nunc litora quis tempor metus adipiscing ac quis sodales ultrices cubilia. Arcu in penatibus vestibulum diam. Curabitur platea quam fusce molestie venenatis platea ligula in aenean gravida dolor aptent nostra luctus rutrum morbi porttitor cursus</p>
+                            <h3>Innovative Packaging Solutions</h3>
+                            <p>Utilise 3D Printing technology to create customised packaging solutions that enhance product shelf life and appeal while reducing environmental impact.</p>
 
                         </div>
                     </div>
