@@ -7383,7 +7383,7 @@ section:hover .section-title h2::before {
 }
 
 .f-widget-title img {
-  height: 60px;
+  height: 120px;
   max-width: inherit;
 }
 
@@ -13390,7 +13390,8 @@ div.single-cta:last-child {
 
 .logo {
   /* width: 195px; */
-  width: 72px;
+  margin-top: 5px;
+  width: 94px;
 }
 
 .logo a {

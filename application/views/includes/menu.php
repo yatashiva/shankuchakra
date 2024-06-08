@@ -1,6 +1,7 @@
 <!-- header -->
 <header class="header-area header-three">
-    <div class="header-mid d-none d-md-block pt-25 pb-25">
+    <!-- <div class="header-mid d-none d-md-block pt-25 pb-25"> -->
+    <div class="header-mid d-none d-md-block pb-25">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-2 col-md-12 d-none d-md-block">
