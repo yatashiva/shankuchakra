@@ -60,7 +60,7 @@
                     </div>
                 </div>
             </div>
-            <div class="single-slider slider-bg d-flex align-items-center" style="background-image: url(<?php echo base_url() ?>assets/img/slider/slider_bg_04.jpg); background-size: cover;">
+            <div class="single-slider slider-bg d-flex align-items-center" style="background-image: url(<?php echo base_url() ?>assets/img/slider/slider_bg_04.png); background-size: cover;">
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-lg-8 col-md-8">
@@ -94,7 +94,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">01</div>
+                        <!-- <div class="services-number">01</div> -->
                         <div class="h-service">
                             <p>Artificial Intelligence (AI)</p>
                             <h5><a href="#">AI algorithms can analyse data from sensors, satellites..</a></h5>
@@ -104,7 +104,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">01</div>
+                            <!-- <div class="services-number services-number-hover">01</div> -->
                             <div class="second-services-content">
                                 <p>Artificial Intelligence (AI)</p>
                                 <h5><a href="#">AI can forecast crop yields, market trends, and weather patterns..</a></h5>
@@ -118,7 +118,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">02</div>
+                        <!-- <div class="services-number">02</div> -->
                         <div class="h-service">
                             <p>Machine Learning (ML)</p>
                             <h5><a href="#">ML algorithms can analyse historical data to identify patterns and.. </a></h5>
@@ -128,7 +128,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">02</div>
+                            <!-- <div class="services-number services-number-hover">02</div> -->
                             <div class="second-services-content">
                                 <p>Machine Learning (ML)</p>
                                 <h5><a href="#">ML models can be trained to recognize symptoms of diseases...</a></h5>
@@ -142,7 +142,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">03</div>
+                        <!-- <div class="services-number">03</div> -->
                         <div class="h-service">
                             <p>Computer Vision</p>
                             <h5><a href="#">Computer Vision systems can analyse images captured by drones.. </a></h5>
@@ -152,7 +152,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">03</div>
+                            <!-- <div class="services-number services-number-hover">03</div> -->
                             <div class="second-services-content">
                                 <p>Computer Vision</p>
                                 <h5><a href="#">Computer Vision can guide robotic harvesters to identify.. </a></h5>
@@ -166,7 +166,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">04</div>
+                        <!-- <div class="services-number">04</div> -->
                         <div class="h-service">
                             <p>Internet of Things (IoT)</p>
                             <h5><a href="#">IoT sensors can monitor soil moisture levels and weather conditions.. </a></h5>
@@ -176,7 +176,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">03</div>
+                            <!-- <div class="services-number services-number-hover">04</div> -->
                             <div class="second-services-content">
                                 <p>Internet of Things (IoT)</p>
                                 <h5><a href="#">IoT devices can track the health & location of livestock.. </a></h5>
@@ -192,7 +192,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">05</div>
+                        <!-- <div class="services-number">05</div> -->
                         <div class="h-service">
                             <p>GPS and GIS</p>
                             <h5><a href="#">GPS and GIS technologies can create detailed maps..</a></h5>
@@ -202,7 +202,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">05</div>
+                            <!-- <div class="services-number services-number-hover">05</div> -->
                             <div class="second-services-content">
                                 <p>GPS and GIS (Geographic Information Systems)</p>
                                 <h5><a href="#">GPS-guided machinery can ensure precise planting...</a></h5>
@@ -216,7 +216,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">06</div>
+                        <!-- <div class="services-number">06</div> -->
                         <div class="h-service">
                             <p>Robotic Technology</p>
                             <h5><a href="#">Robots equipped with AI and Computer Vision can autonomously.. </a></h5>
@@ -226,7 +226,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">06</div>
+                            <!-- <div class="services-number services-number-hover">06</div> -->
                             <div class="second-services-content">
                                 <p>Robotic Technology</p>
                                 <h5><a href="#">With the decline of natural pollinators, robotic pollinators can...</a></h5>
@@ -240,7 +240,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">07</div>
+                        <!-- <div class="services-number">07</div> -->
                         <div class="h-service">
                             <p>Drone Technology</p>
                             <h5><a href="#">Drones equipped with cameras and sensors can provide.. </a></h5>
@@ -250,7 +250,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">07</div>
+                            <!-- <div class="services-number services-number-hover">07</div> -->
                             <div class="second-services-content">
                                 <p>Drone Technology</p>
                                 <h5><a href="#">Drones equipped with cameras and sensors can provide.. </a></h5>
@@ -264,7 +264,7 @@
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
-                        <div class="services-number">08</div>
+                        <!-- <div class="services-number">08</div> -->
                         <div class="h-service">
                             <p>3D Printing Technology</p>
                             <h5><a href="#">3D printing can create customised agricultural tools.. </a></h5>
@@ -274,7 +274,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">08</div>
+                            <!-- <div class="services-number services-number-hover">08</div> -->
                             <div class="second-services-content">
                                 <p>3D Printing Technology</p>
                                 <h5><a href="#">Farmers can use 3D printing to rapidly prototype new designs.. </a></h5>
