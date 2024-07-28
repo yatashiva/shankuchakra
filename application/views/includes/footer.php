@@ -21,10 +21,11 @@
                         </div>
                         <div class="footer-link">
                             <ul>
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#"> Technologies</a></li>
-                                <li><a href="#"> Services</a></li>
-                                <li><a href="#"> Prices </a></li>
+                                <li><a href="<?php echo base_url() ?>">Home</a></li>
+                                <li><a href="<?php echo base_url('aboutUs') ?>">About us</a></li>
+                                <li><a href="<?php echo base_url('technologies') ?>"> Technologies</a></li>
+                                <li><a href="<?php echo base_url('services') ?>"> Services</a></li>
+                                <!-- <li><a href="#"> Prices </a></li> -->
                                 <!-- <li><a href="blog.html">Get In Touch </a></li> -->
                             </ul>
                         </div>
@@ -57,7 +58,7 @@
                                 <li><a href="#">Industrial Services</a></li>
                                 <li><a href="#">TitanTech Solutions </a></li>
                                 <li><a href="#">Innovations Group</a></li>
-                                <li><a href="#">PowerEdge Services </a></li>
+                                <!-- <li><a href="#">PowerEdge Services </a></li> -->
                             </ul>
                         </div>
                     </div>
