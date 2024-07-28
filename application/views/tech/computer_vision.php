@@ -64,7 +64,7 @@
                             </div>
 
                             <h2>Crop Monitoring</h2>
-                            <p>Computer Vision systems can analyse images captured by drones or cameras to monitor crop growth, detect weeds, and assess plant health without the need for manual inspection.</p>
+                            <p>Computer Vision systems analyze images captured by drones or cameras to monitor crop growth, detect weeds, and assess plant health without the need for manual inspection. This technology provides detailed and accurate information on the condition of crops, helping farmers manage their fields more effectively. By automating the monitoring process, Computer Vision reduces labor costs and increases the precision of crop management.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
@@ -81,10 +81,10 @@
 
                             <h3>Harvesting Automation</h3>
 
-                            <p>Computer Vision can guide robotic harvesters to identify and selectively pick ripe fruits or vegetables, reducing labour costs and increasing efficiency.</p>
+                            <p>Computer Vision guides robotic harvesters to identify and selectively pick ripe fruits or vegetables, reducing labor costs and increasing efficiency. These systems can distinguish between ripe and unripe produce, ensuring that only the best-quality products are harvested. This precision reduces waste and ensures that harvested crops are at their peak freshness and quality.</p>
 
                             <h3>Quality Control</h3>
-                            <p>Computer Vision algorithms can inspect harvested produce for defects or irregularities, ensuring only high-quality products reach the market.</p>
+                            <p>Computer Vision algorithms inspect harvested produce for defects or irregularities, ensuring only high-quality products reach the market. Automated inspection systems can quickly and accurately sort produce based on size, color, and other quality criteria. This ensures that consumers receive consistent, high-quality products, enhancing brand reputation and customer satisfaction.</p>
                         </div>
                     </div>
                 </div>

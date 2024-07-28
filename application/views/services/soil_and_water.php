@@ -17,7 +17,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/services/bdrc-bg1.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -59,31 +59,31 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_b1.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-01.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
 
                             <h2> Sensor Integration </h2>
-                            <p>Install IoT sensors in the soil to collect data on moisture levels, nutrient content, pH levels, and temperature.</p>
+                            <p>Our advanced IoT sensors are strategically placed throughout the fields to monitor critical parameters such as soil moisture, temperature, nutrient levels, and pH. These sensors continuously gather real-time data, providing a comprehensive overview of soil conditions. This data is transmitted to a central system where it can be analyzed and visualized, giving farmers the ability to make informed decisions about their soil management practices.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s1.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-02.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_b2.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-03.jpg" alt=""></figure>
                                     </div>
 
                                 </div>
                             </div>
 
                             <h3>Data Analytics</h3>
-                            <p>Utilise AI and ML algorithms to analyse the collected data and provide insights into soil health, including recommendations for optimal irrigation and fertilisation schedules.</p>
+                            <p>Leveraging AI and ML, we analyze the massive amounts of data collected from IoT sensors. These technologies can identify patterns and correlations that are not easily visible to the naked eye. For instance, they can predict soil moisture needs based on weather forecasts and historical data, recommend specific fertilizers based on nutrient deficiencies, and suggest the best times for irrigation. This level of precision ensures optimal soil health and maximizes crop yield potential.</p>
                             <h3>Remote Monitoring</h3>
-                            <p> Implement IoT-enabled systems to remotely monitor soil and water conditions, allowing farmers to make timely decisions and adjustments.</p>
+                            <p>With our IoT-enabled systems, farmers can access real-time soil and water data from anywhere in the world using their smartphones or computers. This remote monitoring capability allows for proactive management, as farmers can receive alerts and notifications about any abnormal soil conditions. Timely interventions based on these alerts can prevent potential issues from escalating, ensuring consistent soil health and water usage efficiency.</p>
 
                         </div>
                     </div>

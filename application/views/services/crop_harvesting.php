@@ -17,7 +17,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/services/bdrc-bg5.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -59,22 +59,22 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_b5.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-01.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
 
                             <h2> Robotic Harvesters </h2>
-                            <p>Develop robotic harvesting systems equipped with Computer Vision technology to identify and pick ripe crops with precision and efficiency.</p>
+                            <p>Our robotic harvesting systems use Computer Vision technology to identify and pick ripe crops with precision. These harvesters are designed to handle various types of crops, from fruits and vegetables to grains. They work efficiently, reducing the reliance on manual labor and ensuring that crops are harvested at the optimal time for maximum freshness and quality.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s9.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-02.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s10.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-03.jpg" alt=""></figure>
                                     </div>
 
                                 </div>
@@ -82,10 +82,11 @@
 
                             <h3>Automation Integration</h3>
 
-                            <p> Integrate harvesting equipment with GPS and GIS technology for precise navigation and coordination, optimising harvest timing and logistics.</p>
+                            <p>By integrating GPS and GIS technology, our harvesting equipment navigates fields with precision. This integration allows for coordinated harvesting operations, optimizing the timing and logistics of crop collection. Automated systems ensure that crops are harvested efficiently, minimizing losses and maximizing yield.</p>
 
                             <h3>Real-Time Data Analysis</h3>
-                            <p>Utilise AI algorithms to analyse real-time data during harvesting operations, optimising workflows and resource allocation.</p>
+                            <p>During harvesting operations, AI algorithms analyze real-time data to optimize workflows and resource allocation. This analysis helps in identifying the most efficient harvesting routes, predicting equipment maintenance needs, and ensuring that harvested crops are processed and stored quickly to maintain their quality. This data-driven approach enhances productivity and ensures a smooth and efficient harvesting process.
+                            </p>
 
                         </div>
                     </div>

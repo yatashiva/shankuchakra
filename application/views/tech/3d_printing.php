@@ -59,7 +59,7 @@
                                 </div>
                             </div>
                             <h2>Customised Equipment</h2>
-                            <p>3D printing can create customised agricultural tools and parts on-demand, reducing lead times and costs associated with traditional manufacturing.</p>
+                            <p>3D printing creates customized agricultural tools and parts on-demand, reducing lead times and costs associated with traditional manufacturing. Farmers can design and produce equipment tailored to their specific needs, ensuring that tools are perfectly suited to their operations. This flexibility enhances efficiency and productivity, as farmers can quickly adapt to changing requirements.</p>
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
@@ -73,9 +73,9 @@
                                 </div>
                             </div>
                             <h3>Prototyping</h3>
-                            <p>Farmers can use 3D printing to rapidly prototype new designs for farm equipment or infrastructure, allowing for quick iteration and testing before full-scale production</p>
+                            <p>Farmers use 3D printing to rapidly prototype new designs for farm equipment or infrastructure, allowing for quick iteration and testing before full-scale production. This rapid prototyping capability enables the development of innovative solutions and the ability to test new ideas without significant investment. Successful prototypes can then be scaled up for wider use, driving continuous improvement and innovation in farming practices.</p>
                             <h3>Vertical Farming</h3>
-                            <p>3D printing can be used to fabricate structures for vertical farming systems, optimising space utilisation and increasing crop yields in urban environments.</p>
+                            <p>3D printing fabricates structures for vertical farming systems, optimizing space utilization and increasing crop yields in urban environments. These structures can be designed to maximize light exposure, water efficiency, and space use, creating highly productive indoor farming environments. Vertical farming supported by 3D printing offers a sustainable solution for food production in cities, reducing the need for transportation and ensuring fresh produce year-round.</p>
                         </div>
                     </div>
                 </div>

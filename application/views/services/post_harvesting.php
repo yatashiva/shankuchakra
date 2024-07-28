@@ -17,19 +17,19 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/services/bdrc-bg6.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
                     <div class="breadcrumb-wrap text-left">
                         <div class="breadcrumb-title">
-                            <h2>Post-Harvesting and Packaging</h2>
+                            <h2>Crop Production</h2>
                             <div class="breadcrumb-wrap">
 
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="<?php echo base_url() ?>">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Post-Harvesting & Packaging</li>
+                                        <li class="breadcrumb-item active" aria-current="page">Crop Production using Computer Vision and IoT</li>
                                     </ol>
                                 </nav>
                             </div>
@@ -59,22 +59,22 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_b6.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-01.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
 
                             <h2> Quality Control </h2>
-                            <p>Implement Computer Vision systems to inspect harvested produce for defects, ensuring only high-quality items are processed and packaged.</p>
+                            <p>We implement Computer Vision systems to inspect harvested produce for defects. These systems use advanced image recognition to detect imperfections such as bruises, blemishes, and size variations. Automated quality control ensures that only the highest quality products are selected for further processing and packaging, maintaining high standards and consumer satisfaction.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s11.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-02.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s12.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-03.jpg" alt=""></figure>
                                     </div>
 
                                 </div>
@@ -82,10 +82,17 @@
 
                             <h3>Automation</h3>
 
-                            <p>Utilise robotic arms and conveyor systems for automated sorting, grading, and packaging of harvested crops, minimising manual labour and increasing efficiency.</p>
+                            <p>Robotic arms and conveyor systems automate the sorting, grading, and packaging of harvested crops. This automation streamlines post-harvesting operations, reducing manual labor and increasing efficiency. Automated systems ensure consistency and speed in processing, enabling large volumes of produce to be handled quickly and effectively.</p>
 
                             <h3>Traceability</h3>
-                            <p>Utilise IoT sensors and blockchain technology to track and trace the journey of produce from farm to fork, ensuring transparency and food safety throughout the supply chain.</p>
+                            <p>Utilizing IoT sensors and blockchain technology, we provide complete traceability of produce from farm to fork. Each product is tracked through every stage of its journey, ensuring transparency and accountability. This traceability enhances food safety, builds consumer trust, and allows for quick identification and resolution of any issues that may arise in the supply chain.</p>
+                            <!-- <ul class="list-style-one">
+                                <li>Engine oil level should be regularly checked Tyres have a minimum of 1.6mm of tread.</li>
+                                <li>Happiness that the electrolyte level is correct Never remove the radiator when the engine.</li>
+                                <li>Painful that your vehicle's brake fluid is full Engine oil level should be regularly checked.</li>
+                                <li>Sngine oil level should be regularly checked Tyres have a minimum of 1.6mm of tread. E lectrolyte.</li>
+
+                            </ul> -->
 
                         </div>
                     </div>

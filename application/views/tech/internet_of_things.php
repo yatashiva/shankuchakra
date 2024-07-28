@@ -60,7 +60,7 @@
                             </div>
 
                             <h2>Precision Irrigation</h2>
-                            <p>IoT sensors can monitor soil moisture levels and weather conditions in real-time, allowing farmers to optimise irrigation schedules and conserve water.</p>
+                            <p>IoT sensors monitor soil moisture levels and weather conditions in real-time, allowing farmers to optimize irrigation schedules and conserve water. By providing precise information on soil conditions, IoT helps in applying the right amount of water at the right time. This reduces water usage, lowers costs, and ensures that crops receive optimal hydration for healthy growth.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
@@ -76,10 +76,10 @@
                             </div>
                             <h3>Livestock Monitoring</h3>
 
-                            <p>IoT devices can track the health and location of livestock, providing early warning signs of illness or distress and enabling timely interventio</p>
+                            <p>IoT devices track the health and location of livestock, providing early warning signs of illness or distress and enabling timely intervention. Wearable sensors monitor vital signs and activity levels, alerting farmers to potential health issues before they become serious. This proactive approach improves animal welfare, reduces veterinary costs, and enhances the efficiency of livestock management.</p>
 
                             <h3>Smart Farming:</h3>
-                            <p>IoT-enabled devices such as smart tractors and drones can automate tasks like planting, fertilising, and spraying pesticides, increasing efficiency and reducing labour requirements.</p>
+                            <p>IoT-enabled devices such as smart tractors and drones automate tasks like planting, fertilizing, and spraying pesticides, increasing efficiency and reducing labor requirements. These smart machines use data from sensors to perform tasks with high precision, ensuring optimal use of inputs and minimizing environmental impact. Automation of routine tasks frees up farmers to focus on more strategic activities, improving overall farm management.</p>
                         </div>
                     </div>
                 </div>

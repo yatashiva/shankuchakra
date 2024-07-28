@@ -64,7 +64,7 @@
                             </div>
 
                             <h2>Aerial Imaging</h2>
-                            <p>Drones equipped with cameras and sensors can provide high-resolution aerial imagery for crop monitoring, disease detection, and yield estimation.</p>
+                            <p>Drones equipped with cameras and sensors provide high-resolution aerial imagery for crop monitoring, disease detection, and yield estimation. These images offer a bird’s-eye view of fields, allowing farmers to identify issues that may not be visible from the ground. Aerial imaging helps in assessing crop health, planning interventions, and optimizing farm management practices.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
@@ -81,10 +81,10 @@
 
                             <h3>Pest Management</h3>
 
-                            <p>Drones can deploy targeted pesticide applications to treat specific areas of a field affected by pests, reducing chemical usage and minimising environmental impact.</p>
+                            <p>Drones deploy targeted pesticide applications to treat specific areas of a field affected by pests, reducing chemical usage and minimizing environmental impact. By applying pesticides only where needed, drones ensure that crops are protected while minimizing the exposure of non-target areas to chemicals. This targeted approach promotes sustainable pest management and reduces costs.</p>
 
                             <h3>Emergency Response</h3>
-                            <p>Drones can quickly assess damage from natural disasters such as floods or wildfires, enabling rapid response and recovery efforts</p>
+                            <p>Drones quickly assess damage from natural disasters such as floods or wildfires, enabling rapid response and recovery efforts. In the aftermath of a disaster, drones can provide detailed images and data on the extent of damage, helping farmers and authorities plan effective recovery strategies. This timely information is crucial for minimizing losses and restoring agricultural productivity.</p>
                         </div>
                     </div>
                 </div>

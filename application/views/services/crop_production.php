@@ -17,7 +17,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/services/bdrc-bg2.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -59,22 +59,22 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_b2.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-01.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
 
                             <h2> Crop Monitoring </h2>
-                            <p>Deploy drones equipped with cameras for aerial imagery and Computer Vision algorithms to monitor crop health, detect diseases, and assess growth patterns.</p>
+                            <p>Our state-of-the-art drones are equipped with high-resolution cameras and advanced Computer Vision technology. These drones fly over fields capturing detailed images that are processed to monitor crop health, detect early signs of diseases, and evaluate growth patterns. The data collected helps in identifying stressed plants, pest infestations, and nutrient deficiencies, allowing for targeted interventions that ensure healthier crops.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s22.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-02.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s4.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-03.jpg" alt=""></figure>
                                     </div>
 
                                 </div>
@@ -82,10 +82,10 @@
 
                             <h3>Precision Agriculture</h3>
 
-                            <p>Utilise IoT sensors and GPS technology to create precision agriculture systems that optimise planting, irrigation, and fertilisation, based on real-time data and analytics.</p>
+                            <p>By integrating IoT sensors with GPS technology, we enable precision agriculture. Sensors placed in the fields collect data on soil conditions, weather, and crop growth, which is then analyzed to optimize planting, irrigation, and fertilization schedules. GPS technology ensures that these tasks are carried out with pinpoint accuracy, reducing waste and increasing productivity. Precision agriculture not only enhances crop yields but also promotes sustainable farming practices.</p>
 
                             <h3>Automated Farming Equipment</h3>
-                            <p>Integrate Computer Vision technology into agricultural machinery for tasks such as weed detection and selective spraying, reducing the need for manual labour and chemical usage.</p>
+                            <p>Our Computer Vision technology is integrated into automated farming equipment for various tasks, including weed detection and selective spraying. These machines use image recognition to differentiate between crops and weeds, applying herbicides only where necessary. This targeted approach reduces the use of chemicals, minimizes environmental impact, and lowers costs. Additionally, automated equipment reduces the need for manual labor, making farming operations more efficient and scalable.</p>
 
                         </div>
                     </div>

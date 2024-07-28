@@ -64,7 +64,7 @@
                             </div>
 
                             <h2>Field Mapping</h2>
-                            <p>GPS and GIS technologies can create detailed maps of agricultural fields, helping farmers to plan and optimise planting layouts and irrigation systems.</p>
+                            <p>GPS and GIS technologies create detailed maps of agricultural fields, helping farmers plan and optimize planting layouts and irrigation systems. These maps provide valuable information on soil types, topography, and other factors that influence crop growth. By using this information, farmers can design more efficient and productive field layouts, ensuring that resources are used effectively.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
@@ -81,10 +81,10 @@
 
                             <h3>Precision Farming</h3>
 
-                            <p>GPS-guided machinery can ensure precise planting, fertilising, and harvesting, minimising overlap and maximising resource efficiency.</p>
+                            <p>GPS-guided machinery ensures precise planting, fertilizing, and harvesting, minimizing overlap and maximizing resource efficiency. By following exact paths and applying inputs only where needed, precision farming reduces waste and increases yields. This approach also reduces the environmental impact of farming by minimizing the use of fertilizers and pesticides.</p>
 
                             <h3>Land Use Planning</h3>
-                            <p>GIS can analyse soil types, topography, and environmental factors to inform decisions about land use, crop selection, and conservation practices.</p>
+                            <p>GIS analyzes soil types, topography, and environmental factors to inform decisions about land use, crop selection, and conservation practices. By understanding the characteristics of different areas of land, farmers can make informed decisions about what crops to plant and how to manage their fields. This ensures that land is used sustainably and productively, protecting natural resources and enhancing long-term farm viability.</p>
                         </div>
                     </div>
                 </div>

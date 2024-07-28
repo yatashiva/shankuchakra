@@ -17,7 +17,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/services/bdrc-bg3.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -59,22 +59,23 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_b3.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-01.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
 
                             <h2> Customised Equipment </h2>
-                            <p>Utilise 3D Printing technology to rapidly prototype and manufacture customised agricultural equipment tailored to specific farm requirements.</p>
+                            <p>Using 3D Printing technology, we rapidly prototype and manufacture customized agricultural equipment tailored to specific farm needs. This capability allows us to create specialized tools and machinery that enhance operational efficiency. For instance, we can design implements that fit unique crop types or field conditions, ensuring optimal performance and productivity.
+                            </p>
 
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s5.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-02.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s6.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-03.jpg" alt=""></figure>
                                     </div>
 
                                 </div>
@@ -82,10 +83,10 @@
 
                             <h3>Autonomous Systems</h3>
 
-                            <p>Develop robotic systems for tasks such as planting, weeding, and harvesting, enhancing efficiency and reducing labour costs.</p>
+                            <p>Our robotic systems handle various agricultural tasks autonomously, including planting, weeding, and harvesting. These robots are equipped with advanced sensors and AI algorithms that enable them to navigate fields, perform precise actions, and adapt to changing conditions. Autonomous systems significantly reduce the need for manual labor, enhance accuracy, and increase the speed of farming operations, leading to higher productivity and lower operational costs.</p>
 
                             <h3>Remote Monitoring and Control</h3>
-                            <p>Implement IoT connectivity in agricultural machinery to enable remote monitoring, diagnostics, and control, improving operational efficiency and reducing downtime.</p>
+                            <p>With IoT connectivity, our agricultural machinery can be monitored and controlled remotely. Farmers can track the performance of their equipment, receive real-time diagnostics, and make adjustments from their smartphones or computers. This remote capability ensures that machinery operates at peak efficiency, reduces downtime, and allows for quick resolution of any issues that arise, enhancing overall farm productivity.</p>
 
                         </div>
                     </div>

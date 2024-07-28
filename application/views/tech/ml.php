@@ -63,7 +63,7 @@
                             </div>
 
                             <h2>Precision Agriculture</h2>
-                            <p>ML algorithms can analyse historical data to identify patterns and optimise planting, harvesting, and crop management practices for maximum yield and efficiency.</p>
+                            <p>ML algorithms analyze historical data to identify patterns and optimize planting, harvesting, and crop management practices for maximum yield and efficiency. Precision agriculture uses data from various sources to provide recommendations on the best practices for specific crops and fields. This tailored approach helps in maximizing the productivity of each plot of land, ensuring optimal use of resources and minimizing environmental impact.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
@@ -80,10 +80,10 @@
 
                             <h3>Crop Disease Detection:</h3>
 
-                            <p>ML models can be trained to recognize symptoms of diseases and pests in crops, enabling early detection and intervention to prevent widespread outbreaks.</p>
+                            <p>ML models can be trained to recognize symptoms of diseases and pests in crops, enabling early detection and intervention to prevent widespread outbreaks. By analyzing images and other data, ML can identify subtle signs of disease that might be missed by the human eye. Early detection allows for targeted treatments, reducing the need for broad-spectrum pesticides and promoting healthier crops.</p>
 
                             <h3>Personalised Recommendations</h3>
-                            <p>ML can provide personalised recommendations to farmers based on factors such as soil type, weather conditions, and crop rotation history.</p>
+                            <p>ML can provide personalized recommendations to farmers based on factors such as soil type, weather conditions, and crop rotation history. These recommendations help farmers make informed decisions about planting, irrigation, and fertilization, tailored to the specific conditions of their farms. Personalized advice ensures that each farm operates at its highest potential, improving yields and sustainability.</p>
 
                         </div>
                     </div>

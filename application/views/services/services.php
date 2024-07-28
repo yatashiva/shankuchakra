@@ -1,5 +1,5 @@
 <!-- offcanvas-area -->
-<div class="offcanvas-menu">
+<!-- <div class="offcanvas-menu">
     <span class="menu-close"><i class="fas fa-times"></i></span>
     <form role="search" method="get" id="searchform" class="searchform" action="">
         <input type="text" name="s" id="search" placeholder="Search" />
@@ -27,8 +27,8 @@
             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#howitwork"><span>info@example.com</span></a></li>
         </ul>
     </div>
-</div>
-<div class="offcanvas-overly"></div>
+</div> -->
+<!-- <div class="offcanvas-overly"></div> -->
 <!-- offcanvas-end -->
 <main>
 
@@ -48,7 +48,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/services/bdrc-bg0.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -77,6 +77,14 @@
         <div class="container">
 
             <div class="row">
+                <div class="section-title center-align  wow fadeInDown animated mb-2" data-animation="fadeInDown" data-delay=".4s">
+                    <h3>
+                        Services
+                    </h3>
+                </div>
+                <div class="col-md-12 mb-4">
+                    <h5>By implementing these advanced technologies, Shanku Chakra Agronex revolutionizes agriculture, ensuring efficiency, sustainability, and productivity throughout the entire agri-food value chain.</h5>
+                </div>
                 <div class="col-lg-4 col-md-6 pl-0 pr-0">
                     <div class="s-single-services">
                         <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-1.png" alt="Soil and Water Health Monitoring using AI-ML and IoT"></div>
@@ -223,7 +231,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 pl-0 pr-0">
                     <div class="s-single-services">
-                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-7.png" alt="Pre and Final Food Processing"></div>
+                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-6.png" alt="Pre and Final Food Processing"></div>
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
@@ -237,7 +245,7 @@
                             <div class="services-icon services-icon-hover">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                             </div>
-                            <div class="services-number services-number-hover">07</div>
+                            <div class="services-number services-number-hover">06</div>
                             <div class="second-services-content">
                                 <p>Services</p>
                                 <h5><a href="<?php echo base_url('pre_and_final_food_processing') ?>">Pre and Final Food Processing</a></h5>

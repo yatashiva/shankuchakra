@@ -17,7 +17,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/services/bdrc-bg4.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -59,22 +59,22 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_b4.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-01.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
 
                             <h2> Aerial Surveillance </h2>
-                            <p>Utilise drones equipped with multispectral cameras to monitor large-scale crop fields, detecting early signs of pests, diseases, and nutrient deficiencies.</p>
+                            <p>Our drones, equipped with multispectral and thermal cameras, provide comprehensive aerial views of crop fields. These drones fly over large areas, capturing high-resolution images that are processed to assess crop health. The data collected helps in detecting early signs of pests, diseases, and nutrient deficiencies, enabling farmers to take timely and targeted actions to protect their crops.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s7.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-02.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/soil_s8.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-03.jpg" alt=""></figure>
                                     </div>
 
                                 </div>
@@ -82,10 +82,11 @@
 
                             <h3>Targeted Intervention:</h3>
 
-                            <p>Use Drone Technology to precisely apply pesticides, fertilisers, and other agrochemicals only where needed, minimising environmental impact and maximising effectiveness.</p>
+                            <p>Using Drone Technology, we apply pesticides, fertilizers, and other agrochemicals with precision. Drones can be programmed to spray specific areas, reducing the amount of chemicals used and minimizing environmental impact. This targeted approach ensures that only affected areas receive treatment, promoting sustainable farming practices and reducing costs.
+                            </p>
 
                             <h3>Data Integration</h3>
-                            <p>Integrate drone-generated data with AI algorithms to generate predictive models for crop health, enabling proactive management strategies.</p>
+                            <p>The data collected by drones is integrated with AI algorithms to create predictive models for crop health. These models analyze various factors, such as weather conditions, soil health, and plant growth patterns, to forecast potential issues and recommend proactive management strategies. This predictive capability helps farmers make informed decisions, ensuring optimal crop health and productivity.</p>
 
                         </div>
                     </div>

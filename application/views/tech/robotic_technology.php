@@ -64,7 +64,7 @@
                             </div>
 
                             <h2>Weed Control:</h2>
-                            <p>Robots equipped with AI and Computer Vision can autonomously identify and remove weeds without the need for herbicides, reducing chemical usage and increasing crop yields.</p>
+                            <p>Robots equipped with AI and Computer Vision autonomously identify and remove weeds without the need for herbicides, reducing chemical usage and increasing crop yields. These robots can work continuously, providing consistent and effective weed management. By targeting weeds directly, robotic systems reduce the risk of crop damage and promote healthier plant growth.</p>
 
                             <!-- Two Column -->
                             <div class="two-column">
@@ -81,10 +81,10 @@
 
                             <h3>Pollination</h3>
 
-                            <p>With the decline of natural pollinators, robotic pollinators can help ensure the pollination of crops like fruits and vegetables, ensuring higher yields and food security.</p>
+                            <p>With the decline of natural pollinators, robotic pollinators can help ensure the pollination of crops like fruits and vegetables, ensuring higher yields and food security. These robots mimic the actions of bees and other pollinators, transferring pollen between flowers. This technology can be especially valuable in greenhouses and other controlled environments, where natural pollinators may be scarce.</p>
 
                             <h3>Labor-intensive Tasks</h3>
-                            <p>Robots can perform labour-intensive tasks such as planting, pruning, and harvesting, reducing the need for manual labour and increasing efficiency.</p>
+                            <p>Robots perform labor-intensive tasks such as planting, pruning, and harvesting, reducing the need for manual labor and increasing efficiency. These machines can work around the clock, providing consistent and reliable performance. By automating repetitive and physically demanding tasks, robotic technology frees up human labor for more skilled and strategic activities.</p>
                         </div>
                     </div>
                 </div>
