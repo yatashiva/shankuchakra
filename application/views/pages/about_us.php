@@ -145,7 +145,7 @@
         </div>
     </section>
     <!-- brand-area -->
-    <div class="brand-area pt-120 pb-120">
+    <!-- <div class="brand-area pt-120 pb-120">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12">
@@ -176,7 +176,7 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- brand-area-end -->
 
 </main>

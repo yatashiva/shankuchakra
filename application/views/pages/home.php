@@ -445,7 +445,7 @@
     </section>
     <!-- service-details2-area-end -->
     <!-- brand-area -->
-    <div class="brand-area pt-120 pb-120">
+    <!-- <div class="brand-area pt-120 pb-120">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12">
@@ -476,7 +476,7 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- brand-area-end -->
 
     <!-- skill-area -->
@@ -760,7 +760,7 @@
     </section> -->
     <!-- team-area-end -->
     <!-- contact-area -->
-    <section class="contact-home-area pt-120 pb-120 p-relative fix" style="background-color: #F3F3F3;">
+    <!-- <section class="contact-home-area pt-120 pb-120 p-relative fix" style="background-color: #F3F3F3;">
         <div class="animations-01"><img src="<?php echo base_url() ?>assets/img/bg/communication.png" alt="an-img-01"></div>
         <div class="container">
             <div class="row">
@@ -842,7 +842,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- contact-area-end -->
     <!-- contact-area -->
 

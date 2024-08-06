@@ -134,9 +134,9 @@
                         </div>
                         <div class="content">
                             <h5>Office Address</h5>
-                            <p>Building No./Flat No.: 16-3/12344th line<br />
-                                Road/Street: Haranadhapuram<br />
-                                Locality/Sub Locality: Mulapeta<br> City/Town/Village: Nellore, Andhra Pradesh - 524003</p>
+                            <p>Building/Flat No: 16-3/12344th line<br />
+                                Street: Haranadhapuram<br />
+                                Sub Locality: Mulapeta<br> City/Town/Village: Nellore, Andhra Pradesh - 524003</p>
                         </div>
                     </div>
                 </div>
@@ -148,6 +148,9 @@
                         <div class="content">
                             <h5>Email Address</h5>
                             <p><a href="mailto:info@shankuchakraagronex.com">info@shankuchakraagronex.com</a></p>
+                            <p><a href="mailto:info@shankuchakraagronex.com">support@shankuchakraagronex.com</a></p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
                         </div>
                     </div>
                 </div>
@@ -171,6 +174,9 @@
                         <div class="content">
                             <h5>Make a call</h5>
                             <p>+91 9493111157</p>
+                            <p>+91 8341311147</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
                         </div>
                     </div>
                 </div>
@@ -189,7 +195,7 @@
                             <img src="<?php echo base_url() ?>assets/img/bg/locations-img.png" alt="image">
                         </div>
                         <h3>
-                            Dawork locations
+                            SCAGRO Locations
                         </h3>
                         <p>Visit our offices or simply send us an email anytime you want.</p>
                         <ul>
