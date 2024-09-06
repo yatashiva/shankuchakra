@@ -11,10 +11,10 @@ class Technologies extends CI_Controller
         $this->load->view('tech/technologies');
         $this->load->view('includes/footer');
     }
-    public function tech_details()
+    public function artificial_intelligence()
     {
         $this->load->view('includes/header');
-        $this->load->view('tech/tech_details');
+        $this->load->view('tech/artificial_intelligence');
         $this->load->view('includes/footer');
     }
     public function ml()

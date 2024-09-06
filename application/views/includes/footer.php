@@ -7,7 +7,7 @@
                     <div class="footer-widget mb-30">
                         <div class="f-about">
                             <div class="f-widget-title">
-                                <h2> <img src="<?php echo base_url() ?>assets/img/logo/f_logo.png" alt="img"></h2>
+                                <h2> <img src="<?php echo base_url() ?>assets/img/logo/logo.png" alt="img"></h2>
                             </div>
                             <p>Welcome to Shanku Chakra Agronex Private Limited, where innovation meets ethical solutions in the realms of agriculture and food processing.</p>
                             <!-- <a href="#">Make A Appointment</a> -->

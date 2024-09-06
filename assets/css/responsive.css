@@ -2108,7 +2108,8 @@
     }
 
     .mean-container a.meanmenu-reveal {
-        margin-top: -38px;
+        /* margin-top: -38px; */
+        margin-top: -50px;
     }
 
     .menu .sub-menu {

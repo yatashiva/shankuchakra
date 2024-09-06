@@ -1,7 +1,7 @@
 <!-- main-area -->
 <main>
     <!-- search-popup -->
-    <div class="modal fade bs-example-modal-lg search-bg popup1" tabindex="-1" role="dialog">
+    <!-- <div class="modal fade bs-example-modal-lg search-bg popup1" tabindex="-1" role="dialog">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content search-popup">
                 <div class="text-center">
@@ -13,10 +13,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/tech/t_bg.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -47,18 +47,14 @@
                 <!-- #right side -->
                 <?php $this->load->view('includes/side_menu') ?>
                 <!-- #right side end -->
-
-
                 <div class="col-lg-8 col-md-12 col-sm-12 order-1">
                     <div class="service-detail">
-
-
                         <div class="content-box">
                             <!-- Two Column -->
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/tech/ai6.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/tech/rt1.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
@@ -70,10 +66,10 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/tech/rt1.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/tech/rt2.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/tech/rt2.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/tech/rt3.jpg" alt=""></figure>
                                     </div>
 
                                 </div>

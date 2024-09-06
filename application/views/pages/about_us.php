@@ -2,7 +2,7 @@
 <main>
 
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg)">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/abt.jpg)">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -46,7 +46,7 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-lg-6 col-md-12 col-sm-12">
                             <div class="s-about-img p-relative wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                                <img src="<?php echo base_url() ?>assets/img/features/about_img_01.png" alt="img">
+                                <img src="<?php echo base_url() ?>assets/img/features/about_img_03.png" alt="img">
                             </div>
 
                         </div>
@@ -137,8 +137,6 @@
                         </div>
                     </div>
                 </div>
-
-
 
             </div>
 

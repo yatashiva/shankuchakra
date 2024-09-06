@@ -16,7 +16,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/tech.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">

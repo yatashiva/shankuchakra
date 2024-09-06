@@ -80,7 +80,7 @@
                 </div>
             </div>
         </div>
-        <div class="badge"> <img src="<?php echo base_url() ?>assets/img/bg/badge.png" alt="feature"> </div>
+        <!-- <div class="badge"> <img src="<?php echo base_url() ?>assets/img/bg/badge.png" alt="feature"> </div> -->
     </section>
     <!-- slider-area-end -->
     <!-- services-area -->
@@ -162,7 +162,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 pl-0 pr-0">
                     <div class="s-single-services">
-                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-33.png" alt="feature"></div>
+                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/iot_d.png" alt="feature"></div>
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
@@ -188,7 +188,7 @@
             <div class="row mt-4">
                 <div class="col-lg-3 col-md-6 pl-0 pr-0">
                     <div class="s-single-services">
-                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-55.png" alt="feature"></div>
+                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/gps_s.png" alt="feature"></div>
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
@@ -212,7 +212,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 pl-0 pr-0">
                     <div class="s-single-services">
-                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-66.png" alt="feature"></div>
+                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/robotic.png" alt="feature"></div>
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 pl-0 pr-0">
                     <div class="s-single-services">
-                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-8.png" alt="feature"></div>
+                        <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/3d_pic.png" alt="feature"></div>
                         <div class="services-icon">
                             <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                         </div>
@@ -340,8 +340,8 @@
                                 <div class="text">
                                     <h5>01</h5>
                                     <h3>Soil and Water Health Monitoring using AI-ML and IoT</h3>
-                                    <p>Install IoT sensors in the soil to collect data on moisture levels, nutrient content, pH levels, and temperature.</p>
-                                    <a href="#" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <p>Our advanced IoT sensors are strategically placed throughout the fields to monitor critical parameters such as soil moisture, temperature, nutrient levels, and pH. These sensors continuously gather real-time data, providing a comprehensive overview of soil conditions. This data is transmitted to a central system where it can be analyzed and visualized, giving farmers the ability to make informed decisions about their soil management practices.</p>
+                                    <a href="<?php echo base_url('soil_and_water_health_monitoring') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="<?php echo base_url() ?>assets/img/bg/services-011.png" alt="img">
@@ -354,8 +354,8 @@
                                 <div class="text">
                                     <h5>02</h5>
                                     <h3>Crop Production using Computer Vision and IoT</h3>
-                                    <p> Deploy drones equipped with cameras for aerial imagery and Computer Vision algorithms to monitor crop health, detect diseases, and assess growth patterns.</p>
-                                    <a href="#" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <p> Our state-of-the-art drones are equipped with high-resolution cameras and advanced Computer Vision technology. These drones fly over fields capturing detailed images that are processed to monitor crop health, detect early signs of diseases, and evaluate growth patterns. The data collected helps in identifying stressed plants, pest infestations, and nutrient deficiencies, allowing for targeted interventions that ensure healthier crops.</p>
+                                    <a href="<?php echo base_url('crop_production_using_computer') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="<?php echo base_url() ?>assets/img/bg/services-04.png" alt="img">
@@ -368,8 +368,8 @@
                                 <div class="text">
                                     <h5>03</h5>
                                     <h3>Agri-Machine Development using Robotics and 3D Printing</h3>
-                                    <p>Utilise 3D Printing technology to rapidly prototype and manufacture customised agricultural equipment tailored to specific farm requirements.</p>
-                                    <a href="#" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <p>Using 3D Printing technology, we rapidly prototype and manufacture customized agricultural equipment tailored to specific farm needs. This capability allows us to create specialized tools and machinery that enhance operational efficiency. For instance, we can design implements that fit unique crop types or field conditions, ensuring optimal performance and productivity.</p>
+                                    <a href="<?php echo base_url('agri_machine_development') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="<?php echo base_url() ?>assets/img/bg/services-05.png" alt="img">
@@ -383,8 +383,8 @@
                                 <div class="text">
                                     <h5>04</h5>
                                     <h3>Crop Health Monitoring and Control using Drone Technology</h3>
-                                    <p>Utilise drones equipped with multispectral cameras to monitor large-scale crop fields, detecting early signs of pests, diseases, and nutrient deficiencies.</p>
-                                    <a href="#" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <p>Our drones, equipped with multispectral and thermal cameras, provide comprehensive aerial views of crop fields. These drones fly over large areas, capturing high-resolution images that are processed to assess crop health. The data collected helps in detecting early signs of pests, diseases, and nutrient deficiencies, enabling farmers to take timely and targeted actions to protect their crops.</p>
+                                    <a href="<?php echo base_url('crop_health_monitoring') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="<?php echo base_url() ?>assets/img/bg/services-044.png" alt="img">
@@ -398,8 +398,8 @@
                                     <h5>05</h5>
                                     <h3>Crop Harvesting</h3>
                                     <p>Develop robotic harvesting systems equipped with Computer Vision technology to identify and pick ripe crops with precision and efficiency</p>
-                                    <p>Automation Integration: Integrate harvesting equipment with GPS and GIS technology for precise navigation and coordination, optimising harvest timing and logistics.</p>
-                                    <a href="#" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <p>Our robotic harvesting systems use Computer Vision technology to identify and pick ripe crops with precision. These harvesters are designed to handle various types of crops, from fruits and vegetables to grains. They work efficiently, reducing the reliance on manual labor and ensuring that crops are harvested at the optimal time for maximum freshness and quality.</p>
+                                    <a href="<?php echo base_url('crop_harvesting') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="<?php echo base_url() ?>assets/img/bg/services-055.png" alt="img">
@@ -413,8 +413,8 @@
                                     <h5>06</h5>
                                     <h3>Post-Harvesting and Packaging</h3>
                                     <p>Implement Computer Vision systems to inspect harvested produce for defects, ensuring only high-quality items are processed and packaged.</p>
-                                    <p>Automation: Utilise robotic arms and conveyor systems for automated sorting, grading, and packaging of harvested crops, minimising manual labour and increasing efficiency.</p>
-                                    <a href="#" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <p>We implement Computer Vision systems to inspect harvested produce for defects. These systems use advanced image recognition to detect imperfections such as bruises, blemishes, and size variations. Automated quality control ensures that only the highest quality products are selected for further processing and packaging, maintaining high standards and consumer satisfaction.</p>
+                                    <a href="<?php echo base_url('post_harvesting') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="<?php echo base_url() ?>assets/img/bg/services-06.png" alt="img">
@@ -428,8 +428,8 @@
                                     <h5>07</h5>
                                     <h3>Pre and Final Food Processing</h3>
                                     <p>Implement robotic systems and conveyor belts for automated processing of harvested crops, including cleaning, sorting, and cutting.</p>
-                                    <p>Quality Assurance: Utilise Computer Vision systems for real-time quality inspection during processing, ensuring consistency and compliance with food safety standards.</p>
-                                    <a href="#" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <p>Our robotic systems and conveyor belts handle automated processing tasks, including cleaning, sorting, cutting, and packaging of harvested crops. These systems operate with high precision and speed, ensuring that food processing is efficient and consistent. Automation reduces the need for manual labor, lowers costs, and increases production capacity. </p>
+                                    <a href="<?php echo base_url('pre_and_final_food_processing') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="<?php echo base_url() ?>assets/img/bg/services-07.png" alt="img">

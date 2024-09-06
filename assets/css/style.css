@@ -2900,7 +2900,8 @@ section:hover .section-title h2::before {
 }
 
 .service-box-slider h3 {
-  font-size: 64px;
+  /* font-size: 64px; */
+  font-size: 48px;
   margin-bottom: 20px;
 }
 
@@ -13389,9 +13390,9 @@ div.single-cta:last-child {
 }
 
 .logo {
-  /* width: 195px; */
+  width: 260px;
   margin-top: 5px;
-  width: 94px;
+  /* width: 94px; */
 }
 
 .logo a {

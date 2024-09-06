@@ -5,8 +5,12 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-2 col-md-12 d-none d-md-block">
-                    <div class="logo">
-                        <a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>assets/img/logo/logo.png" alt="logo"></a>
+                    <div class="header-cta">
+                        <div class="logo">
+                            <a href="<?php echo base_url() ?>">
+                                <img src="<?php echo base_url() ?>assets/img/logo/logo.png" alt="logo">
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-10 col-md-10 text-right d-none d-lg-block">
@@ -19,7 +23,7 @@
                                     </div>
                                     <div class="text">
                                         <span>Call Now:</span>
-                                        <strong>+91 854 789-8746</strong>
+                                        <strong>+91 83090 87500</strong>
                                     </div>
                                 </div>
                             </li>
@@ -99,7 +103,7 @@
                     <div class="col-xl-2 col-lg-2 text-right d-none d-lg-block">
                         <div class="login">
                             <ul>
-                                <li><a href="#" class="menu-tigger"><img src="<?php echo base_url() ?>assets/img/icon/search.png" alt="logo"></a></li>
+                                <!-- <li><a href="#" class="menu-tigger"><img src="<?php echo base_url() ?>assets/img/icon/search.png" alt="logo"></a></li> -->
                                 <li>
                                     <a href="#" class="menu-tigger"><img src="<?php echo base_url() ?>assets/img/icon/bar-menu.png" alt="logo"></a>
                                 </li>
@@ -136,8 +140,8 @@
 
     <div id="cssmenu2" class="menu-one-page-menu-container">
         <ul id="menu-one-page-menu-12" class="menu">
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#home"><span>+91 91234 56897</span></a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#howitwork"><span>info@example.com</span></a></li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#home"><span>+91 83090 8750</span></a></li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#howitwork"><span>info@scagro.com</span></a></li>
         </ul>
     </div>
 </div>

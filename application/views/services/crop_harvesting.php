@@ -17,7 +17,7 @@
     </div>
     <!-- /search-popup -->
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg);">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/srv.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -59,7 +59,7 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-12 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-01.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/s5.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
@@ -71,10 +71,10 @@
                             <div class="two-column">
                                 <div class="row">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-02.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/s51.jpg" alt=""></figure>
                                     </div>
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
-                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/gallery/gallery-03.jpg" alt=""></figure>
+                                        <figure class="image"><img src="<?php echo base_url() ?>assets/img/services/s52.jpg" alt=""></figure>
                                     </div>
 
                                 </div>

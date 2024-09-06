@@ -2,7 +2,7 @@
 <main>
 
     <!-- breadcrumb-area -->
-    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/bg/bdrc-bg.jpg)">
+    <section class="breadcrumb-area d-flex align-items-center" style="background-image:url(<?php echo base_url() ?>assets/img/tech.jpg)">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-12 col-lg-12">
@@ -33,6 +33,7 @@
                     <a href="<?php echo base_url('Artificial_Intelligence') ?>">
                         <figure class="gallery-image">
                             <img src="<?php echo base_url() ?>assets/img/bg/ai.jpg" alt="Artificial Intelligence (AI)" class="img">
+
                             <figcaption>
                                 <div class="icon"><img src="<?php echo base_url() ?>assets/img/gallery/g-btn.png" alt="Artificial Intelligence (AI)" class="img"> </div>
                                 <div class="text">
@@ -42,6 +43,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>Artificial Intelligence (AI)</h4>
+                    </div>
                 </div>
                 <div class="col-lg-3 col-md-12 mb-30">
                     <a href="<?php echo base_url('Machine_Learning') ?>">
@@ -56,6 +60,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>Machine Learning (ML)</h4>
+                    </div>
                 </div>
 
                 <div class="col-lg-3 col-md-12 mb-30">
@@ -71,6 +78,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>Computer Vision</h4>
+                    </div>
                 </div>
                 <div class="col-lg-3 col-md-12 mb-30">
                     <a href="<?php echo base_url('internet_of_things') ?>">
@@ -85,6 +95,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>Internet of Things (IoT)</h4>
+                    </div>
                 </div>
                 <div class="col-lg-3 col-md-12 mb-30">
                     <a href="<?php echo base_url('geographic_information_systems') ?>">
@@ -99,6 +112,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>GPS and GIS</h4>
+                    </div>
                 </div>
 
                 <div class="col-lg-3 col-md-12 mb-30">
@@ -114,6 +130,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>Robotic Technology</h4>
+                    </div>
                 </div>
                 <div class="col-lg-3 col-md-12 mb-30">
                     <a href="<?php echo base_url('drone_technology') ?>">
@@ -128,6 +147,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>Drone Technology</h4>
+                    </div>
                 </div>
 
                 <div class="col-lg-3 col-md-12 mb-30">
@@ -143,6 +165,9 @@
                             </figcaption>
                         </figure>
                     </a>
+                    <div class="text-center mt-2">
+                        <h4>3D Printing Technology</h4>
+                    </div>
                 </div>
             </div>
         </div>

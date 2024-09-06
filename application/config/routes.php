@@ -53,7 +53,7 @@ $route['default_controller'] = 'home';
 $route['aboutUs'] = 'home/about_us';
 
 $route['technologies'] = 'technologies';
-$route['Artificial_Intelligence'] = 'technologies/tech_details';
+$route['Artificial_Intelligence'] = 'technologies/artificial_intelligence';
 $route['Machine_Learning'] = 'technologies/ml';
 $route['computer_vision'] = 'technologies/computer_vision';
 $route['internet_of_things'] = 'technologies/internet_of_things';
