@@ -3487,3 +3487,14 @@
         margin: 0 2px;
 
     }
+}
+
+.pt-70 {
+    padding-top: 70px !important;
+
+}
+
+.pb-40 {
+    padding-bottom: 40px !important;
+
+}

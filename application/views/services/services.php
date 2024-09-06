@@ -73,16 +73,15 @@
     </section>
     <!-- breadcrumb-area-end -->
     <!-- services-area -->
-    <section id="services" class="services-area services-bg pt-120 pb-50 p-relative fix" style="background: #F3F3F3;">
+    <section id="services" class="services-area services-bg pt-70 p-relative fix" style="background: #F3F3F3;">
         <div class="container">
-
             <div class="row">
                 <div class="section-title center-align  wow fadeInDown animated mb-2" data-animation="fadeInDown" data-delay=".4s">
                     <h3>
                         Services
                     </h3>
                 </div>
-                <div class="col-md-12 mb-4">
+                <div class="col-md-12 mb-4 pb-40">
                     <h5>By implementing these advanced technologies, Shanku Chakra Agronex revolutionizes agriculture, ensuring efficiency, sustainability, and productivity throughout the entire agri-food value chain.</h5>
                 </div>
                 <!-- <div class="col-lg-4 col-md-6 pl-0 pr-0">
@@ -270,7 +269,7 @@
                 <div class="col-lg-3 col-md-6 pl-0 pr-0">
                     <a href="<?php echo base_url('pre_and_final_food_processing') ?>">
                         <div class="s-single-services">
-                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-6.png" alt="Pre and Final Food Processing"></div>
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/services/s_07.jpg" alt="Pre and Final Food Processing"></div>
                             <div class="services-icon">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
                             </div>
@@ -284,7 +283,7 @@
                                 <div class="services-icon services-icon-hover">
                                     <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
                                 </div>
-                                <div class="services-number services-number-hover">06</div>
+                                <div class="services-number services-number-hover">07</div>
                                 <div class="second-services-content">
                                     <p>Services</p>
                                     <h5>Pre and Final Food Processing</h5>

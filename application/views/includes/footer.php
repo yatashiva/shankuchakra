@@ -90,7 +90,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="copy-text text-center">
-                        Copyright &copy; Shanku Chakra 2024. All rights reserved.
+                        Copyright &copy; Shanku Chakra Agronex 2024. All rights reserved.
                     </div>
                 </div>
             </div>

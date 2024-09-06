@@ -310,6 +310,44 @@
     <!-- about-area -->
     <?php $this->load->view('includes/about_sck') ?>
     <!-- about-area-end -->
+    <!-- skill-area -->
+    <section id="skill" class="skill-area p-relative fix pt-120 pb-120" style="background: #222222;">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-lg-6 col-md-12 col-sm-12 pr-30">
+                    <div class="skills-img wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
+                        <a href="https://www.youtube.com/watch?v=vKSA_idPZkc" class="video-i popup-video"> <img src="<?php echo base_url() ?>assets/img/bg/skills-img.png" alt="img" class="img"> </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="skills-content s-about-content wow fadeInRight animated" data-animation="fadeInRight" data-delay=".4s">
+                        <div class="skills-title pb-20">
+                            <h5>Artificial Intelligence</h5>
+                            <h2>Crop Monitoring and Management</h2>
+                        </div>
+                        <p>AI algorithms can analyse data from sensors, satellites, and drones to monitor crop health, detect diseases, and optimise irrigation and fertilisation schedules.</p>
+                        <div class="mt-20">
+                            <div class="skills pt-50 pb-50" style="background-image: url(<?php echo base_url() ?>assets/img/bg/skill-lines.png);background-repeat: repeat-y;">
+                                <div class="skill mb-30">
+                                    <div class="skill-name">Manufacturing</div>
+                                    <div class="skill-bar">
+                                        <div class="skill-per" id="80"></div>
+                                    </div>
+                                </div>
+                                <div class="skill mb-30">
+                                    <div class="skill-name">Metallurgy</div>
+                                    <div class="skill-bar">
+                                        <div class="skill-per" id="90"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- skill-area-end -->
     <!-- service-area -->
     <section class="service pb-120 p-relative fix" style="background: #F3F3F3;">
         <div class="scrollbox2">
@@ -479,46 +517,9 @@
     </div> -->
     <!-- brand-area-end -->
 
-    <!-- skill-area -->
-    <section id="skill" class="skill-area p-relative fix pt-120 pb-120" style="background: #222222;">
-        <div class="container">
-            <div class="row justify-content-center align-items-center">
-                <div class="col-lg-6 col-md-12 col-sm-12 pr-30">
-                    <div class="skills-img wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                        <a href="https://www.youtube.com/watch?v=vKSA_idPZkc" class="video-i popup-video"> <img src="<?php echo base_url() ?>assets/img/bg/skills-img.png" alt="img" class="img"> </a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="skills-content s-about-content wow fadeInRight animated" data-animation="fadeInRight" data-delay=".4s">
-                        <div class="skills-title pb-20">
-                            <h5>Artificial Intelligence</h5>
-                            <h2>Crop Monitoring and Management</h2>
-                        </div>
-                        <p>AI algorithms can analyse data from sensors, satellites, and drones to monitor crop health, detect diseases, and optimise irrigation and fertilisation schedules.</p>
-                        <div class="mt-20">
-                            <div class="skills pt-50 pb-50" style="background-image: url(<?php echo base_url() ?>assets/img/bg/skill-lines.png);background-repeat: repeat-y;">
-                                <div class="skill mb-30">
-                                    <div class="skill-name">Manufacturing</div>
-                                    <div class="skill-bar">
-                                        <div class="skill-per" id="80"></div>
-                                    </div>
-                                </div>
-                                <div class="skill mb-30">
-                                    <div class="skill-name">Metallurgy</div>
-                                    <div class="skill-bar">
-                                        <div class="skill-per" id="90"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- skill-area-end -->
+
     <!-- testimonial-area -->
-    <section id="testimonial" class="testimonial-area pt-120 pb-90  p-relative fix" style="background-image: url(<?php echo base_url() ?>assets/img/bg/test-bg.png); background-repeat: no-repeat; background-position: center center;">
+    <!-- <section id="testimonial" class="testimonial-area pt-120 pb-90  p-relative fix" style="background-image: url(<?php echo base_url() ?>assets/img/bg/test-bg.png); background-repeat: no-repeat; background-position: center center;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -598,7 +599,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- testimonial-area-end -->
 
     <!-- team-area -->
