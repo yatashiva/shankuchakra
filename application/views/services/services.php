@@ -73,7 +73,7 @@
     </section>
     <!-- breadcrumb-area-end -->
     <!-- services-area -->
-    <section id="services" class="services-area services-bg pt-70 p-relative fix" style="background: #F3F3F3;">
+    <section id="services" class="services-area services-bg pt-70 pb-100 p-relative fix" style="background: #F3F3F3;">
         <div class="container">
             <div class="row">
                 <div class="section-title center-align  wow fadeInDown animated mb-2" data-animation="fadeInDown" data-delay=".4s">
@@ -84,35 +84,10 @@
                 <div class="col-md-12 mb-4 pb-40">
                     <h5>By implementing these advanced technologies, Shanku Chakra Agronex revolutionizes agriculture, ensuring efficiency, sustainability, and productivity throughout the entire agri-food value chain.</h5>
                 </div>
+
                 <!-- <div class="col-lg-4 col-md-6 pl-0 pr-0">
                     <a href="<?php echo base_url('soil_and_water_health_monitoring') ?>">
                         <div class="s-single-services">
-                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-1.png" alt="Soil and Water Health Monitoring using AI-ML and IoT"></div>
-                            <div class="services-icon">
-                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
-                            </div>
-                            <div class="services-number">01</div>
-                            <div class="h-service">
-                                <p>Services</p>
-                                <h5>Soil and Water Health Monitoring using AI-ML and IoT</h5>
-                            </div>
-
-                            <div class="services-hover">
-                                <div class="services-icon services-icon-hover">
-                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
-                                </div>
-                                <div class="services-number services-number-hover">01</div>
-                                <div class="second-services-content">
-                                    <p>Services</p>
-                                    <h5>Soil and Water Health Monitoring using AI-ML and IoT</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div> -->
-                <div class="col-lg-4 col-md-6 pl-0 pr-0">
-                    <a href="<?php echo base_url('soil_and_water_health_monitoring') ?>">
-                        <div class="s-single-services active">
                             <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-1.png" alt="feature"></div>
                             <div class="services-icon">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
@@ -138,7 +113,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 pl-0 pr-0">
                     <a href="<?php echo base_url('crop_production_using_computer') ?>">
-                        <div class="s-single-services ">
+                        <div class="s-single-services active">
                             <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-2.png" alt="Crop Production using Computer Vision and IoT"></div>
                             <div class="services-icon">
                                 <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
@@ -292,10 +267,221 @@
 
                         </div>
                     </a>
+                </div> -->
+
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 pl-0 pr-0">
+
+                        <div class="s-single-services">
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-1.png" alt="feature"></div>
+                            <div class="services-icon">
+                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
+                            </div>
+                            <div class="services-number">01</div>
+                            <div class="h-service">
+                                <p>Services</p>
+                                <h5><a href="<?php echo base_url('soil_and_water_health_monitoring') ?>">Soil and Water Health Monitoring using AI-ML and IoT</a></h5>
+                            </div>
+
+                            <div class="services-hover">
+                                <div class="services-icon services-icon-hover">
+                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
+                                </div>
+                                <div class="services-number services-number-hover">01</div>
+                                <div class="second-services-content">
+                                    <p>Services</p>
+                                    <h5><a href="<?php echo base_url('soil_and_water_health_monitoring') ?>">Soil and Water Health Monitoring using AI-ML and IoT</a></h5>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6 pl-0 pr-0">
+
+                        <div class="s-single-services active">
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-2.png" alt="feature"></div>
+                            <div class="services-icon">
+                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
+                            </div>
+                            <div class="services-number">02</div>
+                            <div class="h-service">
+                                <p>Services</p>
+                                <h5><a href="<?php echo base_url('crop_production_using_computer') ?>">Crop Production using Computer Vision and IoT</a></h5>
+                            </div>
+
+                            <div class="services-hover">
+                                <div class="services-icon services-icon-hover">
+                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
+                                </div>
+                                <div class="services-number services-number-hover">02</div>
+                                <div class="second-services-content">
+                                    <p>Services</p>
+                                    <h5><a href="<?php echo base_url('crop_production_using_computer') ?>">Crop Production using Computer Vision and IoT</a></h5>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 pl-0 pr-0">
+
+                        <div class="s-single-services">
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-3.png" alt="Agri-Machine Development using Robotics and 3D Printing"></div>
+                            <div class="services-icon">
+                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
+                            </div>
+                            <div class="services-number">03</div>
+                            <div class="h-service">
+                                <p>Services</p>
+                                <h5><a href="<?php echo base_url('agri_machine_development') ?>">Agri-Machine Development using Robotics and 3D Printing</a></h5>
+                            </div>
+
+                            <div class="services-hover">
+                                <div class="services-icon services-icon-hover">
+                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
+                                </div>
+                                <div class="services-number services-number-hover">03</div>
+                                <div class="second-services-content">
+                                    <p>Services</p>
+                                    <h5><a href="<?php echo base_url('agri_machine_development') ?>">Agri-Machine Development using Robotics and 3D Printing</a></h5>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-3 col-md-6 pl-0 pr-0">
+                        <!-- <a href="<?php echo base_url('crop_health_monitoring') ?>"> -->
+                        <div class="s-single-services">
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-4.png" alt="Services"></div>
+                            <div class="services-icon">
+                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
+                            </div>
+                            <div class="services-number">04</div>
+                            <div class="h-service">
+                                <p> Services</p>
+                                <h5><a href="<?php echo base_url('crop_health_monitoring') ?>">Crop Health Monitoring and Control using Drone Technology</a></h5>
+                            </div>
+
+                            <div class="services-hover">
+                                <div class="services-icon services-icon-hover">
+                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
+                                </div>
+                                <div class="services-number services-number-hover">04</div>
+                                <div class="second-services-content">
+                                    <p> Services</p>
+                                    <h5><a href="<?php echo base_url('crop_health_monitoring') ?>">Crop Health Monitoring and Control using Drone Technology</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- </a> -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 pl-0 pr-0">
+                        <!-- <a href="<?php echo base_url('crop_harvesting') ?>"> -->
+                        <div class="s-single-services">
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-5.png" alt="Services"></div>
+                            <div class="services-icon">
+                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
+                            </div>
+                            <div class="services-number">05</div>
+                            <div class="h-service">
+                                <p>Services </p>
+                                <h5><a href="<?php echo base_url('crop_harvesting') ?>">Crop Harvesting</a></h5>
+                            </div>
+
+                            <div class="services-hover">
+                                <div class="services-icon services-icon-hover">
+                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
+                                </div>
+                                <div class="services-number services-number-hover">05</div>
+                                <div class="second-services-content">
+                                    <p>Services </p>
+                                    <h5><a href="<?php echo base_url('crop_harvesting') ?>">Crop Harvesting</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- </a> -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 pl-0 pr-0">
+                        <!-- <a href="<?php echo base_url('post_harvesting') ?>"> -->
+                        <div class="s-single-services">
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-6.png" alt="Services"></div>
+                            <div class="services-icon">
+                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
+                            </div>
+                            <div class="services-number">06</div>
+                            <div class="h-service">
+                                <p>Services</p>
+                                <h5><a href="<?php echo base_url('post_harvesting') ?>">Post-Harvesting and Packaging</a></h5>
+                            </div>
+
+                            <div class="services-hover">
+                                <div class="services-icon services-icon-hover">
+                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
+                                </div>
+                                <div class="services-number services-number-hover">06</div>
+                                <div class="second-services-content">
+                                    <p>Services</p>
+                                    <h5><a href="<?php echo base_url('post_harvesting') ?>">Post-Harvesting and Packaging</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- </a> -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 pl-0 pr-0">
+                        <!-- <a href="<?php echo base_url('pre_and_final_food_processing') ?>"> -->
+                        <div class="s-single-services">
+                            <div class="feature-img"><img src="<?php echo base_url() ?>assets/img/bg/services-6.png" alt="Services"></div>
+                            <div class="services-icon">
+                                <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right.png" />
+                            </div>
+                            <div class="services-number">07</div>
+                            <div class="h-service">
+                                <p>Services</p>
+                                <h5><a href="<?php echo base_url('pre_and_final_food_processing') ?>">Pre and Final Food Processing</a></h5>
+                            </div>
+
+                            <div class="services-hover">
+                                <div class="services-icon services-icon-hover">
+                                    <img src="<?php echo base_url() ?>assets/img/bg/arrow-top-right-h.png" />
+                                </div>
+                                <div class="services-number services-number-hover">07</div>
+                                <div class="second-services-content">
+                                    <p>Services</p>
+                                    <h5><a href="<?php echo base_url('pre_and_final_food_processing') ?>">Pre and Final Food Processing</a>
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- </a> -->
+                    </div>
+
                 </div>
 
             </div>
 
+        </div>
+
+        <div class="scrollbox2 fix">
+            <div class="scrollbox scrollbox--secondary scrollbox--reverse">
+                <div class="scrollbox__item">
+                    <div class="section-t">
+                        <h2>SHANKUCHAKRA SERVICES</h2>
+                    </div>
+                </div>
+                <div class="scrollbox__item">
+                    <div class="section-t">
+                        <h2>SHANKUCHAKRA SERVICES</h2>
+                    </div>
+                </div>
+                <div class="scrollbox__item">
+                    <div class="section-t">
+                        <h2>SHANKUCHAKRA SERVICES</h2>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </section>
