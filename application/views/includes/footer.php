@@ -42,7 +42,7 @@
                                 <li><a href="#"> Investors</a></li>
                                 <li><a href="#"> News </a></li>
                                 <li><a href="#"> FAQ’s</a></li>
-                                <li><a href="#">Contact us </a></li>
+                                <li><a href="<?php echo base_url('Contact_us') ?>">Contact us </a></li>
                             </ul>
                         </div>
                     </div>

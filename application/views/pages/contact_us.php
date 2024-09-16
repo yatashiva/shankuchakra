@@ -117,10 +117,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="section-title center-align mb-80 text-center wow fadeInDown animated" data-animation="fadeInDown" data-delay=".4s">
                     <h5>Get In Touch</h5>
-                    <h2>
-                        Book your seat today
-                    </h2>
-
+                    <h2>Book your seat today</h2>
                 </div>
 
             </div>
@@ -134,9 +131,9 @@
                         </div>
                         <div class="content">
                             <h5>Office Address</h5>
-                            <p>Building/Flat No: 16-3/12344th line<br />
-                                Street: Haranadhapuram<br />
-                                Sub Locality: Mulapeta<br> City/Town/Village: Nellore, Andhra Pradesh - 524003</p>
+                            <p>Mulapet, Pinakini Avenue, <br />
+                                Harinathpuram, Nellore, <br />
+                                Andhra Pradesh 524003</p>
                         </div>
                     </div>
                 </div>
@@ -150,7 +147,7 @@
                             <p><a href="mailto:info@shankuchakraagronex.com">info@shankuchakraagronex.com</a></p>
                             <p><a href="mailto:info@shankuchakraagronex.com">support@shankuchakraagronex.com</a></p>
                             <p>&nbsp;</p>
-                            <p>&nbsp;</p>
+
                         </div>
                     </div>
                 </div>
@@ -176,7 +173,7 @@
                             <p>+91 9493111157</p>
                             <p>+91 8341311147</p>
                             <p>&nbsp;</p>
-                            <p>&nbsp;</p>
+
                         </div>
                     </div>
                 </div>
@@ -233,7 +230,8 @@
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-12">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d212867.83634504632!2d-112.24455686962897!3d33.52582710700138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b743829374b03%3A0xabaac255b1e43fbe!2sPlexus%20Worldwide!5e0!3m2!1sen!2sin!4v1618567685329!5m2!1sen!2sin" width="100%" height="776" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d212867.83634504632!2d-112.24455686962897!3d33.52582710700138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b743829374b03%3A0xabaac255b1e43fbe!2sPlexus%20Worldwide!5e0!3m2!1sen!2sin!4v1618567685329!5m2!1sen!2sin" width="100%" height="776" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3863.790234477732!2d79.989311!3d14.439249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTTCsDI2JzIxLjMiTiA3OcKwNTknMjEuNSJF!5e0!3m2!1sen!2sin!4v1726483109265!5m2!1sen!2sin" width="100%" height="776" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
 
 
