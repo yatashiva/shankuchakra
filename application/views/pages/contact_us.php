@@ -54,7 +54,7 @@
                                 <div class="single-counter" data-aos="fade-up" data-aos-duration="1300">
                                     <div class="counter p-relative">
                                         <div class="text">
-                                            <span class="count">550</span><span>+</span>
+                                            <span class="count">250</span><span>+</span>
                                             <p>Our Happy Client</p>
                                         </div>
 
