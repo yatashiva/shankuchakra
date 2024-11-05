@@ -84,7 +84,7 @@
     <section class="team-area fix p-relative pt-120 pb-60">
         <div class="container">
             <div class="row">
-                <div class="col-xl-6 col-lg-6">
+                <div class="col-xl-3 col-lg-3">
                     <div class="section-title center-align  wow fadeInDown animated" data-animation="fadeInDown" data-delay=".4s">
                         <!-- <h5> <img src="<?php echo base_url() ?>assets/img/bg/team-number.png" alt="img"> </h5> -->
                         <h2>
@@ -97,7 +97,7 @@
                     <div class="single-team mb-60">
                         <div class="team-thumb">
                             <div class="brd">
-                                <img src="<?php echo base_url() ?>assets/img/team/team01.png" alt="img">
+                                <img src="<?php echo base_url() ?>assets/img/team/ceo.jpg" alt="ceo">
                                 <div class="team-social">
                                     <a href="#" class="share-alt"><i class="fal fa-share-alt"></i></a>
                                     <ul>
@@ -109,8 +109,30 @@
                                 </div>
                             </div>
                             <div class="team-info">
-                                <p>Managing Director</p>
-                                <h4><a href="team-single.html">Ronald Richards</a></h4>
+                                <p>CEO</p>
+                                <h4><a href="#">Kongari Deepak Reddy</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3">
+                    <div class="single-team mb-60">
+                        <div class="team-thumb">
+                            <div class="brd">
+                                <img src="<?php echo base_url() ?>assets/img/team/amar.jpg" alt="coo & cmo">
+                                <div class="team-social">
+                                    <a href="#" class="share-alt"><i class="fal fa-share-alt"></i></a>
+                                    <ul>
+                                        <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li> <a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="team-info">
+                                <p>COO & CMO</p>
+                                <h4><a href="#">Amaresh Jana</a></h4>
                             </div>
                         </div>
                     </div>
@@ -131,8 +153,8 @@
                                 </div>
                             </div>
                             <div class="team-info">
-                                <p>Managing Director</p>
-                                <h4><a href="team-single.html">Jerome Bell</a></h4>
+                                <p>CTO</p>
+                                <h4><a href="#">Mayur</a></h4>
                             </div>
                         </div>
                     </div>

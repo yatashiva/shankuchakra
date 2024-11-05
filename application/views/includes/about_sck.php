@@ -80,7 +80,6 @@
                             <a href="<?php echo base_url('contact_us') ?>" class="btn2 mt-35" data-animation="fadeInLeft" data-delay=".4s">Read More <i class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
